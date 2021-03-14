@@ -78,7 +78,7 @@
 		<cvar name="stasis_breakout" value="x!unused" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
-		<cvar name="push_to_talk" value="control!unused" />
+		<cvar name="push_to_talk" value="/!unused" />
 		<cvar name="ui_gamepad_button_back" value="tab!unused" />
 		<cvar name="ui_open_director" value="l!unused" />
 		<cvar name="ui_open_director_mtx_tab" value="unused!unused" />
